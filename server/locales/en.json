@@ -1,0 +1,10 @@
+{
+	"SUCCESS": "Success",
+	"REGISTER_SUCCESS": "Record created successfully",
+	"DELETED": "Record deleted successfully",
+	"UPDATE": "Record updated successfully",
+	"ERROR_MSG": "Something went wrong. please try again.",
+	"FIELD_REQUIRED": "%s is required",
+	"FIELD_NOT_VALID": "%s is not valid.",
+	"PHONE_EXISTS": "Phone is already exists"
+}
